@@ -1,0 +1,13 @@
+F:\c#\QQ2018\QQ2018\obj\Debug\QQ2018.csprojAssemblyReference.cache
+F:\c#\QQ2018\QQ2018\obj\Debug\QQ2018.FrmQQLogin.resources
+F:\c#\QQ2018\QQ2018\obj\Debug\QQ2018.Properties.Resources.resources
+F:\c#\QQ2018\QQ2018\obj\Debug\QQ2018.csproj.GenerateResource.cache
+F:\c#\QQ2018\QQ2018\obj\Debug\QQ2018.csproj.CoreCompileInputs.cache
+F:\c#\QQ2018\QQ2018\bin\Debug\QQ2018.exe.config
+F:\c#\QQ2018\QQ2018\bin\Debug\QQ2018.exe
+F:\c#\QQ2018\QQ2018\bin\Debug\QQ2018.pdb
+F:\c#\QQ2018\QQ2018\obj\Debug\QQ2018.exe
+F:\c#\QQ2018\QQ2018\obj\Debug\QQ2018.pdb
+F:\c#\QQ2018\QQ2018\obj\Debug\QQ2018.FrmQRCode.resources
+F:\c#\QQ2018\QQ2018\obj\Debug\QQ2018.FrmSet.resources
+F:\c#\QQ2018\QQ2018\obj\Debug\QQ2018.FrmChat.resources
